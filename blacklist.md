@@ -39,3 +39,4 @@ be removed. If the server ceases to fulfill the conditions after removal, it
 may be re-listed immediately.
 
 
+[XEP-0157]: https://xmpp.org/extensions/xep-0157.html
